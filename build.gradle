@@ -7,5 +7,5 @@ configurations {
 }
 
 dependencies {
-    scm 'org.apache.httpcomponents:httpclient:4.5.10'
+    scm 'org.apache.httpcomponents:httpclient:4.5.14'
 }
