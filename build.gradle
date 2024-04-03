@@ -1,0 +1,11 @@
+repositories {
+    jcenter()
+}
+
+configurations {
+    scm
+}
+
+dependencies {
+    scm 'org.apache.httpcomponents:httpclient:4.5.10'
+}
